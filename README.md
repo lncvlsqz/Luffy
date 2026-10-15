@@ -11,9 +11,14 @@
 ---
 
 ### 🍖 About This Project
-- 🧭 **Theme:** Monkey D. Luffy / One Piece Aesthetic
+
+<img align="right" src="https://media.tenor.com/VdixkA4ki9IAAAAC/aizen.gif" width="160" alt="Aizen" style="border-radius: 12px; margin-left: 15px;" />
+
+- 🧭 **Theme:** Monkey D. Luffy & Anime Aesthetic
 - ⚔️ **Author:** [@lncvlsqz](https://github.com/lncvlsqz)
 - 🚀 **Goal:** Leveling up coding skills on GitHub
+
+<br clear="right" />
 
 ---
 
