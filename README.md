@@ -12,7 +12,7 @@
 
 ### 🍖 About This Project
 
-<img align="right" src="https://media.tenor.com/VdixkA4ki9IAAAAC/aizen.gif" width="160" alt="Aizen" style="border-radius: 12px; margin-left: 15px;" />
+<img align="right" src="./assets/aizen.gif" width="160" alt="Aizen" style="border-radius: 12px; margin-left: 15px;" />
 
 - 🧭 **Theme:** Monkey D. Luffy & Anime Aesthetic
 - ⚔️ **Author:** [@lncvlsqz](https://github.com/lncvlsqz)
