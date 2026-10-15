@@ -12,18 +12,13 @@
 
 ### 🍖 About This Project
 
-<table>
-  <tr>
-    <td valign="middle">
-      • 🧭 <b>Theme:</b> Monkey D. Luffy & Anime Aesthetic<br /><br />
-      • ⚔️ <b>Author:</b> <a href="https://github.com/lncvlsqz">@lncvlsqz</a><br /><br />
-      • 🚀 <b>Goal:</b> Leveling up coding skills on GitHub
-    </td>
-    <td align="center" valign="middle" width="130">
-      <img src="./assets/aizen.gif" width="115" alt="Aizen" style="border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="./assets/aizen.gif" width="100" alt="Aizen" />
+
+- 🧭 **Theme:** Monkey D. Luffy & Anime Aesthetic
+- ⚔️ **Author:** [@lncvlsqz](https://github.com/lncvlsqz)
+- 🚀 **Goal:** Leveling up coding skills on GitHub
+
+<br clear="right" />
 
 ---
 
