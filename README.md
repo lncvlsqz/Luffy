@@ -19,17 +19,36 @@
 
 ### 🛠️ Tech Stack & Skills
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <br>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
-  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br><b>HTML5</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br><b>CSS3</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br><b>Git</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br><b>GitHub</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br><b>VS Code</b>
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/canva.svg" width="48" height="48" alt="Canva" /><br><b>Canva</b>
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/codex.svg" width="48" height="48" alt="Codex" /><br><b>Codex</b>
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/antigravity.svg" width="48" height="48" alt="Antigravity" /><br><b>Antigravity</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
