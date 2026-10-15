@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=550&lines=I'm+Lance+%2F+lncvlsqz+👋;Setting+sail+to+be+the+King+of+Developers!+👑;Welcome+to+my+Luffy+Repository+⚓" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E94560&center=true&vCenter=true&width=550&lines=I%27m+Lance+%2F+lncvlsqz+%F0%9F%91%8B;Setting+sail+to+be+the+King+of+Developers!+%F0%9F%91%91;Welcome+to+my+Luffy+Repository+%E2%9A%93" alt="Typing SVG" />
 </p>
 
 ---
